@@ -15,11 +15,7 @@
     Endpoints:
 </h2>
 
-    <p align="center">
-        <code>
             GET /api/v1/students
             POST /api/v1/students
             GET /api/v1/students/{id}
             PUT /api/v1/students/{id}
-        </code>
-    </p>
